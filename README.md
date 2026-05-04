@@ -31,7 +31,7 @@ Will trade code for good food 🍕
 | **NA-RT-VC** | Network-attached realtime voice changer - RVC inference over VBAN routed from the DGX Spark to my gaming PC (~30–40ms latency) |
 | **Ant-Farm** | Cyberpunk-themed agentic sandbox world 🐜 inspired by [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442) · Park et al., 2023 · [[source code]](https://github.com/joonspk-research/generative_agents) |
 | **Dashboards** | Custom monitoring & info displays for the homelab ecosystem |
-| **Learning** | Backend Development: Python, Go, Git, SQL, and more via boot.dev |
+| **Learning** | Backend Development: Python, Go, Git, SQL, and more via boot.dev + CCNA via NetworkChuck Academy |
 
 ---
 
