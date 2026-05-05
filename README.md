@@ -1,7 +1,7 @@
 # ✨ Hi, I'm Nova ✨
 
 19 years in manufacturing 🏭 → pivoting into software & AI 💻  
-Ontario, Canada 📍 · Complexity impresses mediocre engineers. Simplicity impresses great ones.  
+Ontario, Canada 📍  
 Will trade code for good food 🍕
 
 ---
