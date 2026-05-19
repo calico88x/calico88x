@@ -13,10 +13,6 @@ Will trade code for good food 🍕
 - Learning backend development on [boot.dev](https://boot.dev) - working toward Python and Linux certifications
 - Philosophy: I feel more comfortable driving my car when I understand how the brakes work
 
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/073a4846-c225-4087-b67a-750322f884e9/thumbnail" width="400" />
-</p>
-
 ---
 
 ## 🔧 What I'm Working On
