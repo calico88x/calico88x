@@ -133,8 +133,6 @@ I run recon before I touch anything. I read the config file before I edit it. I 
 - **Telegram:** [@nova88x](https://t.me/nova88x)
 - **LinkedIn:** [@Nova Peck](https://www.linkedin.com/in/nova-peck-34626a211/)
 - **X:** [@xCalico88x](https://x.com/xCalico88x)
-- **YouTube:** [@pinkcalico88](https://www.youtube.com/@pinkcalico88)
-- **Suno:** [@xjustnova88](https://suno.com/@xjustnova88)
 
 ---
 
