@@ -131,7 +131,7 @@ I run recon before I touch anything. I read the config file before I edit it. I 
 
 - **GitHub:** [calico88x](https://github.com/calico88x)
 - **Telegram:** [@nova88x](https://t.me/nova88x)
-- **LinkedIn:** [@Nova Peck](https://www.linkedin.com/in/nova-peck-34626a211/)
+- **LinkedIn:** [@Nova Peck](https://www.linkedin.com/in/nova-peck/)
 - **X:** [@xCalico88x](https://x.com/xCalico88x)
 
 ---
