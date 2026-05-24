@@ -1,6 +1,6 @@
 # ✨ Hi, I'm Nova ✨
 
-19 years in manufacturing 🏭 → pivoting into software & AI 💻  
+19 years in manufacturing 🏭 → pivoting into devops & AI 💻  
 Ontario, Canada 📍  
 Will trade code for good food 🍕
 
