@@ -1,15 +1,18 @@
 # ✨ Hi, I'm Nova ✨
 
-19 years in manufacturing 🏭 → pivoting into devops & AI 💻  
-Ontario, Canada 📍  
-Will trade code for good food 🍕
+19 years in manufacturing 🏭 → pivoting into Devops, Networking & AI 💻 
+Ontario, Canada 🍁
 
 ---
 
 ## 🌱 About Me
 
 - Former manufacturing generalist turned self-taught developer - I spent nearly two decades learning how to make things work under real-world pressure before I ever touched a compiler
-- Running **two distinct homelabs**: an AI inference stack on an **HP ZGX Nano G1n (NVIDIA DGX Spark)** - 128 GB unified memory, GB10 Grace-Blackwell SoC - and a fully hardened network/security lab on **Proxmox VE 9**
+- Running **two distinct homelabs**: an AI inference stack on an **HP ZGX Nano G1n (NVIDIA DGX Spark)** - 128 GB unified memory, GB10 Grace-Blackwell SoC - and a fully hardened kvm/network/security lab on **Proxmox VE 9**
+- Running Arch Linux with Hyprland (Wayland) + Rofi + LUKS encryption + LVM on a laptop with customized dotfile personalization
+- Running Ubuntu VM for Kubernetes with Rancher Desktop. Nested-VM configuration + K9S
+- Learning CCNA networking with [NetworkChuck Academy](https://academy.networkchuck.com/start)
+- Learning DevOps & Kubernetes with [KubeCraft](https://www.skool.com/kubecraft)
 - Learning backend development on [boot.dev](https://boot.dev) - working toward Python and Linux certifications
 - Philosophy: I feel more comfortable driving my car when I understand how the brakes work
 
@@ -20,14 +23,13 @@ Will trade code for good food 🍕
 | Project | What It Does |
 |---------|-------------|
 | **VM Homelab** 🖥️ | Proxmox VE 9 on bare metal - virtualized OPNsense router, multi-VLAN segmentation, Pi-hole + Unbound + DNSSEC, full Prometheus/Grafana/Loki monitoring stack, Suricata IDS/IPS, Twingate zero-trust remote access |
-| **ZGX Homelab** | Fully self-hosted AI inference stack - vLLM · LiteLLM · OpenClaw · SearXNG · ComfyUI |
-| **Yuki** 🐾 | On-device AI agent (Telegram bot) powered by Qwen3.6-35B-A3B NVFP4, running fully on the DGX Spark |
-| **Luna** 🌙 | Cloud-resident AI agent running on a VPS - Yuki's counterpart and predecessor |
+| **ZGX Homelab** | Fully self-hosted AI inference stack - vLLM · LiteLLM · Hermes-Agent · SearXNG · ComfyUI |
+| **Yuki** 🐾 | On-device AI agent via Hermes (Telegram bot) powered by Qwen3.6-35B-A3B NVFP4, running fully on the DGX Spark |
+| **Luna** 🌙 | Cloud-resident AI agent running on a VPS OpenClaw - Yuki's counterpart and predecessor |
 | **YKG** | Yuki Knowledge Graph - Kuzu embedded graph DB with automated extraction, 28-pattern query interface, and Obsidian sync |
-| **NA-RT-VC** | Network-attached realtime voice changer - RVC inference over VBAN routed from the DGX Spark to my gaming PC (~30–40ms latency) |
 | **Ant-Farm** | Cyberpunk-themed agentic sandbox world 🐜 inspired by [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442) · Park et al., 2023 · [[source code]](https://github.com/joonspk-research/generative_agents) |
 | **Dashboards** | Custom monitoring & info displays for the homelab ecosystem |
-| **Learning** | Backend Development: Python, Go, Git, SQL, and more via boot.dev + CCNA via NetworkChuck Academy |
+| **Learning** | Backend Development: Python, Go, Git, SQL, and more via boot.dev + CCNA via NetworkChuck Academy + KubeCraft DevOps Engineering |
 
 ---
 
@@ -44,6 +46,7 @@ A learning-first infrastructure project built around a single Proxmox VE 9 host.
 | OPNsense | Router / Firewall | FreeBSD · IPS (Hyperscan) on WAN · multi-VLAN · pf |
 | pihole | DNS | Pi-hole v6 · Unbound · DNSSEC · forced for all VLANs via NAT redirect |
 | Docker LX | Monitoring hub | Prometheus · Grafana · Alertmanager · Loki · Promtail · cAdvisor |
+| Ubuntu (VM 105) | Virtual desktop server | Ubuntu 24.04 + Rancher Desktop + Kubernetes + K9S + Docker |
 | MotorTown (VM 108) | Game server | Ubuntu 24.04 + XFCE · Steam + Proton · auto-start chain · Telegram alerts |
 
 **Security posture:**
@@ -133,6 +136,7 @@ I run recon before I touch anything. I read the config file before I edit it. I 
 - **Telegram:** [@nova88x](https://t.me/nova88x)
 - **LinkedIn:** [@Nova Peck](https://www.linkedin.com/in/nova-peck/)
 - **X:** [@xCalico88x](https://x.com/xCalico88x)
+- **NovaLabs Portfolio:** [@NovaLabs](https://novalabs88.tech)
 
 ---
 
