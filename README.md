@@ -152,11 +152,12 @@ Prometheus scrapes every 60 seconds with 30-day retention. Grafana provides dash
 ## 🐾 Quick Facts
 
 - 🤖 I run **Yuki**, an on-device AI cat-girl with hybrid BM25 + vector memory, a knowledge graph, background memory consolidation, and TTS
-- 🎨 ComfyUI handles local image and video generation with FLUX, Z-Image Turbo, and SageAttention patched for SM121A
+- 🎨 ComfyUI handles local image and video generation with FLUX, Z-Image Turbo, and SageAttention patched for SM121A on GB10
 - 🧠 I document everything: living documentation, versioned architecture diagrams, CVE research summaries, phased restore scripts, and lessons-learned logs
 - 🔒 My infrastructure follows zero-trust access, multi-VLAN segmentation, supply-chain-aware upgrades, and CVE review before deployment
 - 🐧 I upgraded a production Proxmox host from PVE 8 to PVE 9 and Debian 12 to Debian 13 Trixie in place, then documented what broke and why
 - 🎮 I run a dedicated MotorTown server because debugging Steam, Proton, and `SteamAPI_Init()` failure chains absolutely counts as Linux administration
+- 🎮 I also run a dedicated modded Minecraft server deployed via Kubernetes with persistent volume storage and Playitt.gg for external domain hosting
 - ⚡ I can probably troubleshoot your network setup
 
 ---
